@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Events</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Finestres -->
+    <string name="title_activity_celebracions_afegir">CelebracionsAfegir</string>
+    <string name="title_activity_entitat_alta">EntitatAlta</string>
+
+    <!-- Finestra de Configuracio -->
+    <string name="title_activity_configuracio">Configuracio</string>
+    <string name="Configuracio_Nom">Name</string>
+    <string name="Configuracio_eMail">e-Mail</string>
+
+    <string name="title_activity_celebracions">Events</string>
+
+    <string name="menu_celebracions_Afegir">Add event</string>
+    <string name="menu_celebracions_Configuracio">Settings</string>
+    <string name="menu_celebracions_Actualitzar">Refresh</string>
+
+
+</resources>
