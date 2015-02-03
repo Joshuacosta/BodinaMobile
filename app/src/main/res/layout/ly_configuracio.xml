@@ -25,4 +25,11 @@
         android:id="@+id/TexteMail"
         android:text="@string/Configuracio_eMail" />
 
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+        android:id="@+id/spinnerIdioma"
+        android:entries="@array/Paisos"
+        android:prompt="@string/Configuracio_Pais" />
+
 </LinearLayout>

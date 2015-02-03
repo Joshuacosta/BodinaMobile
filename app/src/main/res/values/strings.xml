@@ -13,12 +13,25 @@
     <string name="title_activity_configuracio">Configuracio</string>
     <string name="Configuracio_Nom">Name</string>
     <string name="Configuracio_eMail">e-Mail</string>
+    <string name="Configuracio_Pais">Country</string>
 
     <string name="title_activity_celebracions">Events</string>
 
     <string name="menu_celebracions_Afegir">Add event</string>
     <string name="menu_celebracions_Configuracio">Settings</string>
     <string name="menu_celebracions_Actualitzar">Refresh</string>
+
+    // Llista de paisos
+    <string-array name="Paisos">
+        <item>Malaysia</item>
+        <item>United States</item>
+        <item>Indonesia</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+        <item>India</item>
+    </string-array>
 
 
 </resources>
